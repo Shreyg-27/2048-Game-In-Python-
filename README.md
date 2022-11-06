@@ -12,7 +12,7 @@ This is a mathematical puzzle game with the aim to reach 2048 before the board f
 ### WHAT I HAD DONE
 
 Classes have been defined in the given code: 
-   1) Board: 
+   1) **Board**: 
    In this I decided the background color and tile colors of the board game, along with initialising variables like score, grid, main_window, board etc,
    along with initialising functions specifically: 
       1) __init__(self): which initialise the above mentioned variables
@@ -23,7 +23,7 @@ Classes have been defined in the given code:
       6) Random_cell: It first stores all the empty cells in a list and then picks a random cell from the created list and make its grid value 2
       7) Can_merge: It returns a boolean value denoting we can merge any two tiles or not. We can merge two tiles if and only if they hold the same grid value.
       8) paintGrid: It assigns foreground and background color to each tile of the 4×4 grid corresponding to its grid value.
-   2) Game: 
+   2) **Game**: 
    Functions:
       1) __init__(self): It is the constructor function. It initializes all the variables with appropriate default values.
       2) start: It calls random_cell twice to assign ‘2’ to grid value of two random cells/tiles,
@@ -44,5 +44,5 @@ The follwing are required :
 https://drive.google.com/file/d/1iTS2wU-UZ7ZeiQCI2A1W8D_NX4q-Xqvi/view?usp=sharing
 
 
-### Name
+### NAME
  Shreya Ganjoo
