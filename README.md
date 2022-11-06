@@ -1,15 +1,15 @@
 # 2048 GAME IN PYTHON 
 
-# GOAL
+### GOAL
 
 This is a mathematical puzzle game with the aim to reach 2048 before the board fills up. The game has to reach 2048 before all tiles have been filled!
 
-# DESCRIPTION
+### DESCRIPTION
 
  When two equal tiles collide, they combine to give you a tile that displays their sum. The more you do this, the higher the tiles get !
  This project has been created using Data Structures and Algorithms in Python language. 
 
-# WHAT I HAD DONE
+### WHAT I HAD DONE
 
 Classes have been defined in the given code: 
    1) Board: 
@@ -31,7 +31,7 @@ Classes have been defined in the given code:
       3) Link_keys: It initially checks if the game is already won or lost, and if it is, it executes a return statement without doing anything. 
          Otherwise, it continues the execution procedure. 
 
-# LIBRARIES NEEDED
+### LIBRARIES NEEDED
 
 The follwing are required :
      1) Tkinter - The GUI library (python)
@@ -39,10 +39,10 @@ The follwing are required :
      2) Basics and DSA in python. 
      
      
-# DEMONSTRATION 
+### DEMONSTRATION 
 
 https://drive.google.com/file/d/1iTS2wU-UZ7ZeiQCI2A1W8D_NX4q-Xqvi/view?usp=sharing
 
 
-# Name
+### Name
  Shreya Ganjoo
